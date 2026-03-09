@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " rightcode.aternos.me:55214",
+    "ip": " rightcode.aternos.me",
     "port": 55214,
     "version": "1.21.11"
   },
